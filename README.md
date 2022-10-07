@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayan Das
 - 👀 I’m interested in everything CS 
-- 🌱 I’m currently learning DSA<!--- 💞️ I’m looking to collaborate on ...-->
+- 🌱 I’m a Frontend Developer<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 Reach me : ayandas9531@gmail.com
 
 <!---
